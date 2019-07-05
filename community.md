@@ -86,6 +86,7 @@ It would be great to hear from you especially if you have any of the above and w
 | [PythonPy Meetup Enero 2019](https://www.meetup.com/es-ES/Python-Paraguay/events/258171808) | Patricio Diaz | Asuncion, PY | 24-Jan-2019 |
 | [Docker and serverless: meetup](https://events.docker.com/events/details/docker-randstad-presents-docker-and-serverless/#/) | Edward Wilde | Utrecht, Netherlands | 24-Jan-2019 |
 | Docker Paraguay Meetup Enero 2019 | Patricio Diaz | Asuncion, PY | 04-Jan-2019 |
+| [Serverless Computing at Optum](https://opensourcenorth.com/#track-2-tab) | Janani Pathangi | Minneapolis, MN | 22-May-2019 |
 
 
 #### Blog posts and write-ups 2019
@@ -213,6 +214,7 @@ It would be great to hear from you especially if you have any of the above and w
 | [Serverless Computing mit OpenFaaS - Developer Group Leipzig](https://www.meetup.com/de-DE/Developer-Group-Leipzig/events/245252994/) | Frank Pommerening | Leipzig Germany | 29-Jan-2018 |
 | [OpenFaaS : a serverless framework on top of Docker and Kubernetes @ Snowcamp.io](https://snowcamp2018.sched.com/event/D2nX/openfaas-a-serverless-framework-on-top-of-docker-and-kubernetes?iframe=no&w=100%&sidebar=no&bg=no) | [Laurent Grangeau](https://twitter.com/laurentgrangeau) | Paris, France | 25-Jan-2018 |
 | [Talk: Building a Raspberry Pi Kubernetes Cluster with OpenFaaS](https://ndc-london.com/talk/building-a-raspberry-pi-kubernetes-cluster-and-running-.net-core/) | Alex Ellis / Scott Hanselman | London | 18-Jan-2018 |
+| [Serverless at the Edge @ Open Source North](https://www.beautiful.ai/player/-Lj1XWxJAmllx3P4L79v/Serverless-at-the-Edge) | Jay Landro | Minneapolis, MN | 14-Jun-2018 |
 
 #### Blog posts and write-ups 2018
 [Back to top](#openfaas-community)
